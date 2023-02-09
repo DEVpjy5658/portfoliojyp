@@ -18,11 +18,11 @@
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
 
-    -o-transition: all 400ms ease;
+    --transition: all 400ms ease;
 
     --container-width-lg: 75%;
-    --container-witdth-md: 86%;
-    --container-witdth-ms: 90%;
+    --container-width-md: 86%;
+    --container-width-sm: 90%;
 }
 
 html {
@@ -61,7 +61,6 @@ h1{
 
 section {
     margin-top:  8rem;
-    height: 100vh;
 }
 
 section > h2, section > h5 {

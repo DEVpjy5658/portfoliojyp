@@ -22,13 +22,13 @@ const About = () => {
             <article className='about_card'>
               <FaUserGraduate className='about_icon'/>
               <h5>Education</h5>
-              <small>Software Development Diploma at Southern Alberta Institute Technology</small>
+              <small>Software Development Diploma at SAIT</small>
             </article>
 
             <article className='about_card'>
               <HiOutlineWrenchScrewdriver className='about_icon'/>
               <h5>Experience</h5>
-              <small>3+ Years Working as an IT Technican at Electronic Recycling Association</small>
+              <small>3+ Years Working as an IT Technican</small>
             </article>
 
             <article className='about_card'>
@@ -37,6 +37,11 @@ const About = () => {
               <small></small>
             </article>
           </div>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae ab, hic expedita optio, officiis, laboriosam sit fugiat explicabo cupiditate at soluta consequuntur incidunt omnis nostrum in! Iure ratione facilis voluptas.
+          </p>
+
+          <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>

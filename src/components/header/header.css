@@ -37,7 +37,7 @@ header {
     background-color: var(--color-primary);
 }
 
-/*=========================== HEADER SOCIAL ================*/
+/*=========================== ME ================*/
 .me {
     background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
@@ -67,7 +67,7 @@ header {
     }
 }
 
-/* =================== Media Queries (Medium Devices) =============*/
+/* =================== Media Queries (Small Devices) =============*/
 @media screen and (max-width: 600px) {
     header {
         height: 100vh;
