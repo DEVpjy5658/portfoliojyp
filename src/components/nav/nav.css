@@ -10,7 +10,7 @@ nav {
     bottom: 2rem;
     display: flex;
     gap: 0.8rem;
-    border-radius: 3.rem;
+    border-radius: 3rem;
     backdrop-filter: blur(15px);
 }
 
@@ -28,6 +28,6 @@ nav a:hover {
 }
 
 nav a.active {
-    background: var(--color-bg);
-    color: var(--color-white);
+    background: var(--color-primary);
+    color: var(--color-bg);
 }
