@@ -38,7 +38,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae ab, hic expedita optio, officiis, laboriosam sit fugiat explicabo cupiditate at soluta consequuntur incidunt omnis nostrum in! Iure ratione facilis voluptas.
+             Quae ab, hic expedita optio, officiis, laboriosam sit fugiat explicabo cupiditate at soluta consequuntur incidunt omnis nostrum in! Iure ratione facilis voluptas.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
