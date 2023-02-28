@@ -12,7 +12,3 @@ const HeaderSocials = () => {
 }
 
 export default HeaderSocials
-
-/**
- * 55:39
- */

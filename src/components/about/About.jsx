@@ -26,22 +26,23 @@ const About = () => {
             </article>
 
             <article className='about_card'>
-              <HiOutlineWrenchScrewdriver className='about_icon'/>
-              <h5>Experience</h5>
-              <small>3+ Years Working as an IT Technican</small>
+              <FaProjectDiagram className='about_icon'/>
+              <h5>Projects</h5>
+              <small>
+                Harvest Bootcamp, The Capstone project at SAIT
+              </small>
             </article>
 
             <article className='about_card'>
-              <FaProjectDiagram className='about_icon'/>
-              <h5>Projects</h5>
-              <small></small>
+              <HiOutlineWrenchScrewdriver className='about_icon'/>
+              <h5>Work Experience</h5>
+              <small>3+ Years Working as an IT Technican</small>
             </article>
           </div>
           <p>
-             Quae ab, hic expedita optio, officiis, laboriosam sit fugiat explicabo cupiditate at soluta consequuntur incidunt omnis nostrum in! Iure ratione facilis voluptas.
+            I am a recent graduate developer and currently working as an IT Techenician at Electronic Recycling Association.
+            As a self-motivated and accountable person, I am passionate to learn new practical skills and knowledge using different methods to solve problems in a team working environment.
           </p>
-
-          <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>
