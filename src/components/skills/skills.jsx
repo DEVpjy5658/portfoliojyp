@@ -65,6 +65,14 @@ const Skills = () => {
               </div>
             </article>
 
+          </div>
+
+        </div>
+
+        <div className="skills_backend">
+        <h3>Database Development</h3>
+          <div className="skills_content">
+
             <article className='skills_details'>
               <BsPatchCheckFill className='skills_details-icon '/>
               <div>
